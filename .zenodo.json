@@ -1,0 +1,76 @@
+{
+  "title": "Analysis code: Clinical presentation and recorded follow-up findings of thyroid eye disease in Colombian referral centers",
+  "upload_type": "software",
+  "description": "R code that derives all variables from the Colombian multicenter thyroid eye disease (TED) registry and reproduces every number, table and figure of the article \"Clinical Presentation and Recorded Follow-up Findings of Thyroid Eye Disease in Colombian Referral Centers: A Multicenter Retrospective Registry Study\" (Therapeutic Advances in Ophthalmology). The patient-level registry data are not included; a synthetic data set with the same structure is provided so that the code can be run end to end. The code runs on any data set built with the same registry template.",
+  "creators": [
+    {
+      "name": "Camargo González, Jennifer",
+      "affiliation": "Hospital Universitario San Ignacio, Bogotá, Colombia",
+      "orcid": "0000-0001-9644-9061"
+    },
+    {
+      "name": "Aristizábal-Henao, Natalia",
+      "affiliation": "Universidad Pontificia Bolivariana and Clínica Las Américas-AUNA, Medellín, Colombia",
+      "orcid": "0000-0003-1795-3142"
+    },
+    {
+      "name": "Padierna-Espinoza, Santiago",
+      "affiliation": "Hospital Pablo Tobón Uribe, Medellín, Colombia",
+      "orcid": "0009-0004-6335-6298"
+    },
+    {
+      "name": "Cabarcas-Solano, María Del S.",
+      "affiliation": "Universidad del Norte, Universidad San Martín, Barranquilla, Colombia",
+      "orcid": "0000-0002-4690-2566"
+    },
+    {
+      "name": "Rivera-Martínez, Wilfredo A.",
+      "affiliation": "Clínica Imbanaco, Cali, Colombia",
+      "orcid": "0000-0002-6079-6974"
+    },
+    {
+      "name": "Jaramillo, María C.",
+      "affiliation": "Pontificia Universidad Javeriana, Bogotá, Colombia",
+      "orcid": "0000-0003-2282-3289"
+    },
+    {
+      "name": "Vega-Orrego, Tatiana",
+      "affiliation": "Universidad Pontificia Bolivariana, Medellín, Colombia"
+    },
+    {
+      "name": "Orozco-Montoya, Santiago",
+      "affiliation": "Universidad de Antioquia, Medellín, Colombia",
+      "orcid": "0000-0002-6587-8338"
+    },
+    {
+      "name": "Mercado-Oliva, Mayerly",
+      "affiliation": "Universidad del Sinú, Cartagena, Colombia"
+    },
+    {
+      "name": "Estupiñán Caicedo, Diego",
+      "affiliation": "Universidad Pontificia Bolivariana, Medellín, Colombia"
+    },
+    {
+      "name": "Salazar-Villa, Guillermo",
+      "affiliation": "Universidad de Antioquia, Medellín, Colombia",
+      "orcid": "0000-0002-8011-0888"
+    },
+    {
+      "name": "Builes-Montaño, Carlos E.",
+      "affiliation": "Hospital Pablo Tobón Uribe and Universidad de Antioquia, Medellín, Colombia",
+      "orcid": "0000-0002-2418-6159"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "thyroid eye disease",
+    "Graves' orbitopathy",
+    "Clinical Activity Score",
+    "Colombia",
+    "registry",
+    "reproducible research",
+    "R"
+  ],
+  "notes": "Synthetic data released under CC0. Results obtained from the synthetic data are meaningless; the registry data are available on request from the corresponding author subject to institutional approval."
+}
